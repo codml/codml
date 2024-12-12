@@ -1,4 +1,4 @@
-<img align=center src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=300&section=header&text=Welcome%20to%20codml&render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=300&section=header&text=Welcome%20to%20codml&render&fontSize=90" />
 
 <div align=center><h1>📚 TECH STACKS</h1></div>
 
