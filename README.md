@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Welcome%20to%20codml&render&fontSize=90" />
 
+<img src="https://img.shields.io/badge/c-20232a.svg?style=for-the-badge&logo=c&logoColor=61DAFB" />
+
 ![codml's GitHub stats](https://github-readme-stats.vercel.app/api?username=codml&show_icons=true&theme=radical)
 <!--
 **codml/codml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
