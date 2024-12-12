@@ -1,9 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Welcome%20to%20codml&render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=300&section=header&text=Welcome%20to%20codml&render&fontSize=90" />
 
 <h3>Tech Stack</h3>
 <div>
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=C">
   <img src="https://img.shields.io/badge/C++-00599C?logo=C++">
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?logo=Tensorflow">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=Python">
 </div>
 
 
