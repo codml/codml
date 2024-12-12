@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=300&section=header&text=Welcome%20to%20codml&render&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome%20to%20codml&render&fontSize=90" />
   
   <h1>📚 TECH STACKS</h1>
   
