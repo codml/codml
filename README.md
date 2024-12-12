@@ -3,7 +3,7 @@
 <h3>Tech Stack</h3>
 <div>
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=C">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=C++">
+  <img src="https://img.shields.io/badge/Cpp-00599C?logo=Cpp">
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?logo=Tensorflow">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=Python">
 </div>
