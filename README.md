@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7EFEF&background=000000&center=true&vCenter=true&width=600&height=100&lines=Hi!+I'm+Taewan+Kim)](https://git.io/typing-svg)
 
 ### 📋 Intro
-* 🔭 I’m currently working on AI Engineering
-* 🏢 Focused on building careers in Financial Technology
+* 🔭 AI Engineering을 공부 중입니다.
+* 🏢 은행 IT/TECH 직무와 금융권 IT 직무를 희망합니다.
 
 ### ☎️ Contact Me
 <p align="left">
