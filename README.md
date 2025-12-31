@@ -1,6 +1,15 @@
-![wavings](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome%20to%20codml&render&fontSize=90)
-  
-# Hello I'm Taewan Kim
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F7EFEF&background=000000&center=true&vCenter=true&width=600&height=100&lines=Hi!+I'm+Taewan+Kim)](https://git.io/typing-svg)
+
+### 📋 Intro
+* 🔭 I’m currently working on AI Engineering
+* 🏢 Focused on building careers in Financial Technology
+
+### ☎️ Contact Me
+<p align="left">
+<a href="mailto:kimtaewanlol@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://stepb2step.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://www.instagram.com/taewan512"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+</p>
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**  
