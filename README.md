@@ -2,7 +2,7 @@
 
 ### 📋 Intro
 * 🔭 AI Engineering을 공부 중입니다.
-* 🏢 은행 IT/TECH 직무와 금융권 IT 직무를 희망합니다.
+* 🏢 은행 IT/TECH 직무를 포함한 금융권 IT 직무를 희망합니다.
 
 ### ☎️ Contact Me
 <p align="left">
